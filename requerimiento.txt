@@ -1,0 +1,11 @@
+se desea tener control de todos los clientes pertenecientes a la empresa X
+cada cliente puede tener N cantidad de direcciones. 
+/*
+herramientas recomendadas
+posgreSql listo
+Angular No
+Bootrap listo
+NetCore NO
+*/
+
+enfocado a movile, Backend, frontend, o full stack. listo
